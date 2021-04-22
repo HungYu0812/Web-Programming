@@ -10,7 +10,7 @@ For front-end case, if the work is not related to React, you could click the **i
 
 ## Detail for each work
 
-- [hw1]("./hw1")
+- [hw1](./hw1)
 - hw2
 - hack1
 - hw3
