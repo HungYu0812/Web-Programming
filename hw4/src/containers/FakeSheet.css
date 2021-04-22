@@ -1,0 +1,33 @@
+.cell {
+  width: 80px;
+  padding: 4px;
+  margin: 0;
+  height: 25px;
+  box-sizing: border-box;
+  position: relative;
+  display: inline-block;
+  color: black;
+  border: 1px solid #cacaca;
+  text-align: left;
+  vertical-align: top;
+  font-size: 14px;
+  line-height: 15px;
+  overflow: hidden;
+}
+
+.column_button_group {
+  position: relative;
+  left: 100px;
+}
+.row_button_group {
+  position: absolute;
+  top: 30px;
+  width: 30px;
+}
+.row_button {
+  width: 100%;
+}
+.table_full {
+  position: relative;
+  margin-left: 30px;
+}
