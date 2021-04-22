@@ -10,10 +10,17 @@ For front-end case, if the work is not related to React, you could click the **i
 
 ## Detail for each work
 
-- [hw1](./hw1)
-- hw2
-- hack1
-- hw3
+- [hw1](./hw1)(HTML, CSS)
+  Desgin a media player interface. See the [document](./hw1.pdf).
+- [hw2](./hw2)(JavaScript)
+  Make a image viewer. See the [document](./hw1.pdf).
 
-* hw4
+  - [x] Basic part
+  - [x] Advanced part
+
+- hack1 (JavaScript)
+- [hw3](./hw3)
+  Make a ToDo List
+
+* [hw4](./hw4)
 * hack2
