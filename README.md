@@ -10,7 +10,7 @@ For front-end case, if the work is not related to React, you could click the **i
 
 ## Detail for each work
 
-- [hw1](./hw1)(HTML, CSS)  
+- [hw1](./hw1) (HTML, CSS)  
   Desgin a media player interface. See the [document](./hw1.pdf).
 - [hw2](./hw2)(JavaScript)  
   Make a image viewer. See the [document](./hw2.pdf).
@@ -18,18 +18,24 @@ For front-end case, if the work is not related to React, you could click the **i
   - [x] Basic part
   - [x] Advanced part
 
-- hack1 (JavaScript)  
+- [hack1](./hack1) (JavaScript)  
   Make a youtube-like media.The audience could add and remove the comments.The media would record all the comments.
-- [hw3](./hw3)  
+- [hw3](./hw3) (React)
   Make a ToDo List. See the [document](./hw3.pdf).
   - [x] Basic part
   - [x] Advanced part
 
-* [hw4](./hw4)  
+* [hw4](./hw4) (React)
   Make a fake spreadsheet. See the [document](./hw4.pdf).
 
   - [x] Basic part
   - [ ] Advanced part
 
-* hack2  
+* [hack2](./hack2) (React)  
   Make a 2048-like game.
+  - [x] Up, down, left, right, and combine the number.
+  - [x] Record the step.
+  - [x] Record the best score.
+  - [x] New game.
+  - [x] If we could not combine the number by "Up", "Down", "Left", "Right", the game is over and show "Try again".
+  - [ ] If we win the game ...
